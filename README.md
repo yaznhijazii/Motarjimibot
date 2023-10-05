@@ -57,7 +57,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 For any inquiries or support, please contact us at:
 - Email:yznhij5@gmail.com
-- Telegram: [Your Telegram](https://t.me/yaznnl)
+- Telegram: https://t.me/yaznnl
 
 ---
 
