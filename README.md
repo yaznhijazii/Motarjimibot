@@ -1,4 +1,8 @@
 # Motarjimibot
+![Motarjimi Icon](logo.jpeg)
+
+... (rest of your README)
+
 Motarjimi is a Telegram bot that allows users to translate text to Arabic.
 
 ## Table of Contents
