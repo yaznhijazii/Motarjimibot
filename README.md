@@ -1,5 +1,5 @@
 # Motarjimibot
-![Motarjimi Icon](<img src="logo.jbeg" alt="Motarjimi Icon" width="100" height="100">)
+<img src="logo.jpeg" alt="Motarjimi Logo" width="200">
 # Motarjimi
 Motarjimi is a Telegram bot that allows users to translate text to Arabic.
 
